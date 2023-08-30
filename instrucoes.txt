@@ -1,3 +1,13 @@
 instalar o openpyxl
 
 pip install openpyxl
+
+
+criado nova branch chamada casa
+
+git branch casa
+
+git checkout casa (mudando para a branch casa)
+
+git merge + nome do branch  - neste caso, se vc estiver na branch principal, as modificações feitas na outra branch se juntarão
+a principal
