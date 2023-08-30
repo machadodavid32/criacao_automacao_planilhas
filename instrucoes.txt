@@ -1,0 +1,3 @@
+instalar o openpyxl
+
+pip install openpyxl
